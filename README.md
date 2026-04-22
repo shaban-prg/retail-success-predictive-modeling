@@ -7,14 +7,14 @@ Data-driven decision-making is essential in modern retail. This project focuses 
 
 The project follows a complete data science lifecycle—from data cleaning and feature engineering to model training and evaluation—leveraging powerful Python libraries such as Pandas and Scikit-learn.
 
-#  Objectives
+###  Objectives
 - Analyze retail datasets to uncover meaningful patterns
 - Build predictive models for key business outcomes
 - Improve decision-making using data-driven insights
 - Evaluate model performance and business impact
 
 
-#  Key Features
+###  Key Features
 -  Data Cleaning & Preprocessing  
 -  Exploratory Data Analysis (EDA)  
 -  Feature Engineering  
@@ -23,18 +23,18 @@ The project follows a complete data science lifecycle—from data cleaning and f
 -  Business Insight Generation  
 
 
-#  Use Cases
+###  Use Cases
 This project can be used to predict:
 - Customer retention and churn
 - Sales trends and demand forecasting
 - Risk factors affecting business performance
 - Operational efficiency improvements
 
-# Tech Stack
+### Stack
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn (visualization)
 
-# Structure
+### Structure
